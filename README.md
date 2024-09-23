@@ -41,6 +41,6 @@ The model was evaluated on the validation set, and performance metrics such as a
 ### Error Analysis:
 - **Exact Match Error(No of dates macthes 10 digits exactly)**: 96.05%
 - **Mismatch Error:** 0.4975%
-- **Highest Error(index where most of mismatches occur):** 2%
-- **Lowest Error(index where less no of mismatches occur):** 5%
+- **Highest Error(index where most of mismatches occur):** 2
+- **Lowest Error(index where less no of mismatches occur):** 5
 
